@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KesiiR
 - 👀 I’m interested in gaming, coding. 
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any basic projects
 - 📫 How to reach me email or social media. 
 - 😄 Pronouns: Mr. 
