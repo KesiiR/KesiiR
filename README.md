@@ -1,7 +1,13 @@
 # Hi, I'm Rebin 👋
 
 **Frontend Developer student** aiming to grow into a **Fullstack role**.  
-Focused on building **scalable, user-centric web applications** using modern **frontend, backend, cloud, and AI technologies**.
+Focused on building **scalable, user-centric web applications** using modern **frontend, backend, cloud and AI technologies**.
+
+---
+
+## 🧠 Background
+I previously worked within **social work**, where communication, responsibility and understanding user needs were essential.  
+That background strongly influences how I approach development today that is with a clear focus on usability, structure and real-world needs.
 
 ---
 
@@ -44,12 +50,6 @@ Focused on building **scalable, user-centric web applications** using modern **f
 - Cloud-based solutions using **AWS**  
 - AI-powered features using **LangChain**  
 - Clean, maintainable, and scalable code  
-
----
-
-## 🧠 Background
-I previously worked within **social work**, where communication, responsibility, and understanding user needs were essential.  
-That background strongly influences how I approach development today — with a clear focus on usability, structure, and real-world needs.
 
 ---
 
