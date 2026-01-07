@@ -47,6 +47,7 @@ That background strongly influences how I approach development today that is wit
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github)
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum-111111?style=flat)
 ![Accessibility](https://img.shields.io/badge/Accessibility_(a11y)-111111?style=flat)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=figma)
 
 ---
 
