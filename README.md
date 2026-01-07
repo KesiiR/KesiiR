@@ -59,7 +59,7 @@ That background strongly influences how I approach development today that is wit
 - Error handling and data validation  
 - Cloud-based solutions using **AWS**  
 - AI-powered features using **LangChain**  
-- Clean, maintainable, and scalable code  
+- Clean, maintainable and scalable code  
 
 ---
 
