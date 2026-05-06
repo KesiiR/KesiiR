@@ -55,10 +55,8 @@ That background strongly influences how I approach development today that is wit
 - Frontend architecture with **React & TypeScript**  
 - State management with **Redux & Zustand**  
 - Backend API design and middleware structure  
-- Authentication and authorization flows  
-- Error handling and data validation  
-- Cloud-based solutions using **AWS**  
-- AI-powered features using **LangChain**  
+- Authentication and authorization flows   
+- Cloud-based solutions using **AWS**   
 - Clean, maintainable and scalable code  
 
 ---
@@ -66,6 +64,7 @@ That background strongly influences how I approach development today that is wit
 ## 📫 Contact
 - **GitHub:** https://github.com/KesiiR 
 - **LinkedIn:** https://www.linkedin.com/in/rebin-youssef-6a11b0364/
+- **Portfolio:** https://www.rebinyoussef.se
 
 ---
 
