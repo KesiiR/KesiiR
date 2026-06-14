@@ -32,11 +32,15 @@ That background strongly influences how I approach development today that is wit
 ![Redux](https://img.shields.io/badge/Redux-111111?style=flat&logo=redux)
 ![Zustand](https://img.shields.io/badge/Zustand-111111?style=flat)
 
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111111?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb)
 ![Auth](https://img.shields.io/badge/Auth_&_Security-111111?style=flat)
+![C#](https://img.shields.io/badge/C%23-111111?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-111111?style=flat&logo=dotnet)
+
 
 ### Cloud & AI
 ![AWS](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonaws)
