@@ -1,15 +1,6 @@
-<p align="center">
-  <img
-    src="./githubheader.png"
-    alt="Hi, I'm Rebin - Frontend Developer"
-    width="100%"
-    height="550"
-  />
-</p>
-
 ---
 
-**Frontend Developer student** aiming to grow into a **Fullstack role**.  
+**Frontend Developer aiming to grow into a **Fullstack role**.  
 Focused on building **scalable, user-centric web applications** using modern **frontend, backend, cloud and AI technologies**.
 
 ---
