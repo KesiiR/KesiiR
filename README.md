@@ -1,9 +1,5 @@
----
-
 **Frontend Developer aiming to grow into a **Fullstack role**.  
 Focused on building **scalable, user-centric web applications** using modern **frontend, backend, cloud and AI technologies**.
-
----
 
 ## 🧠 Background
 I previously worked within **social work**, where communication, responsibility and understanding user needs were essential.  
